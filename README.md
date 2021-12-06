@@ -12,7 +12,7 @@ To be able to run the scripts and commands on your own computer
 
 # What is BASH
 ## Bourne Again Shell
-BASH is a scripting language developed by Y in year X.
+BASH is a scripting language developed by Brian Fox in year 1989.
 This was before we had the fancy computer interfaces we have today with the shiny GUIs and all that was available was...   
 ![Terminal](/images/terminal.png "terminal")
 
