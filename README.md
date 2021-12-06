@@ -13,7 +13,8 @@ To be able to run the scripts and commands on your own computer
 # What is BASH
 ## Bourne Again Shell
 BASH is a scripting language developed by Y in year X.
-This was before we had the fancy computer interfaces we have today with the shiny GUIs and all that was available was...     
+This was before we had the fancy computer interfaces we have today with the shiny GUIs and all that was available was...   
+![Terminal](/images/terminal.png "terminal")
 
 
 # Workshop Content
@@ -48,14 +49,16 @@ Commands in linux follow a certain general format: `command [option(s)] [file(s)
 
 `>` redirects the output from command to a file.     
 
-`man` a manual command. We can use this command with any other command to see what it does and its available options. usage: `man command`
+`man` a manual command. We can use this command with any other command to see what it does and its options. usage: `man command`
 
 
 ## Create your First Script
+![init_bash](/images/init_bash.png "init_bash")
 
 
 ## Script Challenge: Create a Script to Sort Some Numbers
+![sort](/images/sort.png "sort")
 
 
 ## Script Challenge: Create a Script to Find Files
-
+![checkFile](/images/checkFile.png "checkFile")
