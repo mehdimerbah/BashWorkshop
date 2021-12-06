@@ -20,13 +20,10 @@ This was before we had the fancy computer interfaces we have today with the shin
 # Workshop Content
 
 ## Understand the Skeleton of a Bash script
-`#!/bin/bash`
 
-#######
+![first_script](/images/first_script.png "first_script")
 
-SCRIPT
-
-#######
+`#!/bin/bash` ?
 
 ## Common Commands
 
